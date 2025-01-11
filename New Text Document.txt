@@ -1,0 +1,17 @@
+Dear Ma’am/Sir/Colleagues,
+
+During the New Year’s evening meeting with the Honourable HCM, he directed that all departments and offices must transition to the e-office system by 31 March 2025. Additionally, the launch of SPARROW for ACR/IPR and e-HRMS across the state is in the pipeline.
+
+Creating a GOV/NIC email ID is a prerequisite for accessing all these new software systems. Therefore, I request you to begin the email ID creation process of all employees in your department and complete it by 15 January 2025.
+
+The process for creating a GOV/NIC email ID involves three steps on the portal [eforms.nic.in](https://eforms.nic.in):
+
+1. *Initiator*: Any government email (name/designation based) can start the process.
+2. *Reporting Officer (RO)*: Any government email (name/designation based) can verify and forward the request.
+3. *DA Admin*: This is the final approval authority for NIC mail. One officer from each department/office can be nominated in NIC’s desired format.
+
+All three steps can be completed online on [eforms.nic.in](https://eforms.nic.in).
+
+The eforms users manual for detailed instructions can be downloaded from [here](https://eforms.nic.in/OnlineForms/assets/old_assets/upload/user_manual.pdf).
+
+Please share the application receipt with Shailabh, DS/GAD at deputysecretary-gad@cg.gov.in and on WhatsApp at 7771841777 for coordinating with NIC for early approval.
